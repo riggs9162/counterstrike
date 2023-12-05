@@ -1,0 +1,7 @@
+"counterstrike"
+{
+	"base" "sandbox"
+	"title" "Counter-Strike"
+	"author" "Reece™"
+	"menusystem" "1"
+}
